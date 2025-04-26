@@ -70,3 +70,4 @@ Potential areas for improvement:
 - Hyperparameter optimization
 - Integration with a web interface
 - Real-time prediction capabilities # cabin-price-prediction
+
